@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\bin\Debug\Зазача методы.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\bin\Debug\Зазача методы.exe
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\bin\Debug\Зазача методы.pdb
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\obj\Debug\Зазача методы.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\obj\Debug\Зазача методы.exe
+c:\users\user\documents\visual studio 2015\Projects\Зазача методы\Зазача методы\obj\Debug\Зазача методы.pdb
