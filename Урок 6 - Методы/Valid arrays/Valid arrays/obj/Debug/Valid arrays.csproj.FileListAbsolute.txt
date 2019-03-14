@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\bin\Debug\Valid arrays.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\bin\Debug\Valid arrays.exe
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\bin\Debug\Valid arrays.pdb
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\obj\Debug\Valid arrays.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\obj\Debug\Valid arrays.exe
+c:\users\user\documents\visual studio 2015\Projects\Valid arrays\Valid arrays\obj\Debug\Valid arrays.pdb
