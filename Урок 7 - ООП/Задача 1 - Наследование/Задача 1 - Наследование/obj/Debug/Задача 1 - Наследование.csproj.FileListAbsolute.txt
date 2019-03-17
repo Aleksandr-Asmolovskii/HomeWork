@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\bin\Debug\Задача 1 - Наследование.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\bin\Debug\Задача 1 - Наследование.exe
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\bin\Debug\Задача 1 - Наследование.pdb
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\obj\Debug\Задача 1 - Наследование.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\obj\Debug\Задача 1 - Наследование.exe
+c:\users\user\documents\visual studio 2015\Projects\Задача 1 - Наследование\Задача 1 - Наследование\obj\Debug\Задача 1 - Наследование.pdb

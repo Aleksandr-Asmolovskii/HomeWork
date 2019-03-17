@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\bin\Debug\Задача 2 - Полиморфизм.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\bin\Debug\Задача 2 - Полиморфизм.exe
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\bin\Debug\Задача 2 - Полиморфизм.pdb
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\obj\Debug\Задача 2 - Полиморфизм.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\obj\Debug\Задача 2 - Полиморфизм.exe
+c:\users\user\documents\visual studio 2015\Projects\Задача 2 - Полиморфизм\Задача 2 - Полиморфизм\obj\Debug\Задача 2 - Полиморфизм.pdb
