@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\bin\Debug\SeperateText.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\bin\Debug\SeperateText.exe
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\bin\Debug\SeperateText.pdb
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\obj\Debug\SeperateText.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\obj\Debug\SeperateText.exe
+c:\users\user\documents\visual studio 2015\Projects\SeperateText\SeperateText\obj\Debug\SeperateText.pdb
