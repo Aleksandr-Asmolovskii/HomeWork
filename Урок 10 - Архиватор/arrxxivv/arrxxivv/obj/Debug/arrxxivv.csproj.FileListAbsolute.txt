@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\bin\Debug\arrxxivv.exe.config
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\bin\Debug\arrxxivv.exe
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\bin\Debug\arrxxivv.pdb
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\obj\Debug\arrxxivv.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\obj\Debug\arrxxivv.exe
+c:\users\user\documents\visual studio 2015\Projects\arrxxivv\arrxxivv\obj\Debug\arrxxivv.pdb
